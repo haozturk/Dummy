@@ -6,12 +6,14 @@
     "async": "^2.6.2",
     "aws-sdk": "latest",
     "axios": "^0.18.0",
-    "body-parser": "latest",
+    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "ejs": "latest",
-    "express": "latest",
-    "mysql": "latest",
-    "querystring": "latest"
+    "express": "^4.16.4",
+    "get-json": "^1.0.1",
+    "mysql": "^2.17.1",
+    "querystring": "latest",
+    "wikidata-sdk": "^6.4.0"
   },
   "scripts": {
     "start": "node app.js"

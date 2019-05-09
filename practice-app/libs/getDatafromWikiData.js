@@ -2,6 +2,7 @@ var axios = require('axios');
 var querystring = require('querystring');
 var http = require('http');
 var fs = require('fs');
+var bodyParser = require('body-parser');
 
 function getClassDataFromWikiData(classId) {
 
