@@ -18,6 +18,7 @@ int main() {
 
     double angle = 180/n;
     
+    //Merhaba
     cout << (r*sin(angle*PI/180))/(1-sin(angle*PI/180)) << endl;
    
     return 0;
